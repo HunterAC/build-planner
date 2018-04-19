@@ -65,6 +65,8 @@ const lapis_lazuli_ore = new Resource("Lapis Lazuli Ore", null);
 
 const lava = new Resource("Lava", null);
 
+const monster_spawner = new Resource("Monster Spawner", null);
+
 const packed_ice = new Resource("Packed Ice", null);
 
 const podzol = new Resource("Podzol", null);
